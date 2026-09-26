@@ -1,0 +1,132 @@
+[
+  {
+    "file": "assets/images/teachers/joundi.webp",
+    "source": "screenshot-123838.png",
+    "crop": [
+      50,
+      55,
+      450,
+      655
+    ],
+    "width": 400,
+    "height": 600,
+    "description": "Portrait from the poster explicitly named joundi"
+  },
+  {
+    "file": "assets/images/teachers/cheikhi.webp",
+    "source": "screenshot-123848.png",
+    "crop": [
+      45,
+      70,
+      390,
+      650
+    ],
+    "width": 345,
+    "height": 580,
+    "description": "Portrait from the poster explicitly named cheikhi"
+  },
+  {
+    "file": "assets/images/teachers/lahmoudi.webp",
+    "source": "screenshot-123853.png",
+    "crop": [
+      35,
+      55,
+      418,
+      655
+    ],
+    "width": 383,
+    "height": 600,
+    "description": "Portrait from the poster explicitly named lahmoudi"
+  },
+  {
+    "file": "assets/images/teachers/arkhis.webp",
+    "source": "screenshot-123902.png",
+    "crop": [
+      30,
+      65,
+      430,
+      665
+    ],
+    "width": 400,
+    "height": 600,
+    "description": "Portrait from the poster explicitly named arkhis"
+  },
+  {
+    "file": "assets/images/teachers/kamal.webp",
+    "source": "screenshot-123909.png",
+    "crop": [
+      48,
+      42,
+      434,
+      650
+    ],
+    "width": 386,
+    "height": 608,
+    "description": "Portrait from the poster explicitly named kamal"
+  },
+  {
+    "file": "assets/images/teachers/benani.webp",
+    "source": "screenshot-123920.png",
+    "crop": [
+      32,
+      58,
+      429,
+      655
+    ],
+    "width": 397,
+    "height": 597,
+    "description": "Portrait from the poster explicitly named benani"
+  },
+  {
+    "file": "assets/images/teachers/amine.webp",
+    "source": "screenshot-123928.png",
+    "crop": [
+      34,
+      53,
+      408,
+      655
+    ],
+    "width": 374,
+    "height": 602,
+    "description": "Portrait from the poster explicitly named amine"
+  },
+  {
+    "file": "assets/images/center/classroom.webp",
+    "source": "screenshot-122956.png",
+    "crop": [
+      971,
+      476,
+      1166,
+      704
+    ],
+    "width": 195,
+    "height": 228,
+    "description": "Two teachers at the board, with students in the foreground"
+  },
+  {
+    "file": "assets/images/gallery/educational-event.webp",
+    "source": "screenshot-122956.png",
+    "crop": [
+      158,
+      476,
+      358,
+      704
+    ],
+    "width": 200,
+    "height": 228,
+    "description": "Teacher addressing an auditorium"
+  },
+  {
+    "file": "assets/images/gallery/team-event.webp",
+    "source": "screenshot-122956.png",
+    "crop": [
+      362,
+      751,
+      558,
+      904
+    ],
+    "width": 196,
+    "height": 153,
+    "description": "Group on stage holding certificates"
+  }
+]
